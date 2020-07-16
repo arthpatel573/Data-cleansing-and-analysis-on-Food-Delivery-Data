@@ -28,6 +28,8 @@ The dataset contains Food Delivery data from a restaurant in Melbourne, Australi
 
 ## Setup
 
+Install all dependencies using below command.
+
 ```
 pip install requirements.txt
 ```
